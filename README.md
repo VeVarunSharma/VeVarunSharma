@@ -5,23 +5,6 @@
 ## Visit my Portfolilo site:
 [See more about who I am and what I've done here.](https://vesharma.dev/)
 
-## 🏆 Some highlights
-<p align="center">
-
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/1b743501-4306-44b7-a7c3-0c275bebbeb6" />
-
-<img width="300"  width="500"  alt="image" src="https://github.com/user-attachments/assets/5772a0c1-b0c2-4171-8ef9-3fb29f485d43" />
-
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/a4e91834-dc5d-49ae-b97b-d2868d0ddf26" />
-
-<img width="300"  alt="image" src="https://github.com/user-attachments/assets/d68dd365-173d-48d9-9f2c-5f3cc4c3694d" />
-
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/f6fd1a51-4891-4bf4-9f37-8dfb1d4c94f4" />
-
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/d8e00bd5-e8de-4513-9d13-c322d8982fb8" />
-
-
-
 
 ## What I'm working on
 - 🧰 Cloud & AI Solution Engineering & Github Copilot @microsoft
@@ -71,6 +54,22 @@
 
 
 
+## 🏆 Some highlights
+<p align="center">
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/1b743501-4306-44b7-a7c3-0c275bebbeb6" />
+
+<img width="300"  width="500"  alt="image" src="https://github.com/user-attachments/assets/5772a0c1-b0c2-4171-8ef9-3fb29f485d43" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/a4e91834-dc5d-49ae-b97b-d2868d0ddf26" />
+
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/d68dd365-173d-48d9-9f2c-5f3cc4c3694d" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f6fd1a51-4891-4bf4-9f37-8dfb1d4c94f4" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/d8e00bd5-e8de-4513-9d13-c322d8982fb8" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/81d8daa4-6acc-4900-86b0-6f3b02fff4eb" />
 
 
 
