@@ -71,9 +71,7 @@
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/81d8daa4-6acc-4900-86b0-6f3b02fff4eb" />
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/7e600719-9443-4107-b216-c31d4f4ec8f1" />
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/c682a981-befa-48e2-82e5-2f9df325df58" />
 
 
 
