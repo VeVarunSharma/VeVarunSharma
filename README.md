@@ -29,7 +29,9 @@
 - Former Founder 😅
 - My last startup was backed by Google 💙
 - I love all genres of EDM 🎵 💃 🕺
-- Favorite video game 🎮 franchieses of all time are Halo, Mass Effect, and Battlefield 
+- Favorite video game 🎮 franchieses of all time are Halo, Mass Effect, and Battlefield
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/d47cf04e-f65c-40ac-b2c2-29cfc7d54ca4" />
+
 
 
 <h3 align="left">Connect with me:</h3>
