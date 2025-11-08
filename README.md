@@ -48,11 +48,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ve-115" alt="ve-115" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VeVarunSharma" alt="VeVarunSharma" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ve-115&show_icons=true&locale=en&layout=compact&count_private=true&theme=blue-green&include_all_commits=true" alt="ve-115" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VeVarunSharma&show_icons=true&locale=en&layout=compact&count_private=true&theme=blue-green&include_all_commits=true" alt="VeVarunSharma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ve_sharma&count_private=true&theme=blue-green" alt="ve-115 /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ve_sharma&count_private=true&theme=blue-green" alt="VeVarunSharma" /></p>
 
 
 
