@@ -25,10 +25,10 @@
 - ❔Anything else - I'm always happy to help!
 
 ## 😎 Fun facts about me
-- I am 🇨🇦 🇨🇳 🇵🇭 🇮🇳 
-- Former Founder 😅
-- My last startup was backed by Google 💙
-- I love all genres of EDM 🎵 💃 🕺
+- I am 🇨🇦 🇨🇳 🇵🇭 🇮🇳
+- I'm a dancing in the rain kind of person (metaphorically speaking)
+- I love to rock climb outdoors (my 2 favorite spots are in Squamish BC and The Feathers in Washington state) 💙
+- I love all genres of Electronic Dance Music 🎵 💃 🕺
 - Favorite video game 🎮 franchieses of all time are Halo, Mass Effect, and Battlefield
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/d47cf04e-f65c-40ac-b2c2-29cfc7d54ca4" />
 
